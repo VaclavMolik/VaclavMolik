@@ -13,7 +13,7 @@ I am a studying networking and I develop websites as a hobby.
 </details>
 
 <details>
- <summary><b>Django Pages</b></summary>
+ <summary><b>Github Pages</b></summary>
   - **I haven't released any yet, but once I do they will appear here.**
 </details>
 
