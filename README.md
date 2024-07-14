@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey!
 
-<!--
-**VaclavMolik/VaclavMolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a studying networking and I develop websites as a hobby.
 
-Here are some ideas to get you started:
+<details>
+  <summary><b>More about me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **Languages:** Python, HTML (+ Django templates), CSS, JavaScript
+  - **Languages I am learning:** C#
+  - **Frameworks:** Django
+  - **Databases:** PostgreSQL, SQLite
+  - **IDE:** Visual Studio Code
+</details>
+
+<details>
+ <summary><b>Django Pages</b></summary>
+  - **I haven't released any yet, but once I do they will appear here.**
+</details>
+
+Most of my repos are private, but I might release them in the future :)
