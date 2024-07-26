@@ -5,7 +5,7 @@ I am a studying networking and I develop websites as a hobby.
 <details>
   <summary><b>More about me</b></summary>
 
-  - **Languages:** Python, HTML (+ Django templates), CSS, JavaScript
+  - **Languages:** Python, Kotlin, HTML (+ Django templates), CSS
   - **Languages I am learning:** C#
   - **Frameworks:** Django
   - **Databases:** PostgreSQL, SQLite
