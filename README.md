@@ -14,7 +14,8 @@ I am a studying networking and I develop websites as a hobby.
 
 <details>
  <summary><b>Github Pages</b></summary>
-  I haven't released any yet, but once I do they will appear here.
+
+  [nymvaclav.github.io](https://nymvaclav.github.io/)
 </details>
 
 Most of my repos are private, but I might release them in the future :)
